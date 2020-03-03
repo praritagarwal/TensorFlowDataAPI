@@ -2,3 +2,4 @@ train_tfrecord_*
 val_tfrecord_*
 test_tfrecord_*
 fashion_MNIST_TFRecord/
+log_dir/
